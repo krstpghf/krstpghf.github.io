@@ -1,0 +1,9 @@
+{
+  "client_id": "https://krstpghf.github.io/mcp/mcp-manifest-dev.json",
+  "client_name": "GST Consultative Model (DEV)",
+  "client_uri": "https://krstpghf.github.io/",
+  "redirect_uris": ["https://aiconsultant.app.dev.gstoyota.com/tableau/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
